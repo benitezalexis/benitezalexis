@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# console.log('Hello world!! 👋')
 I'm a  Software Engineering student
 
 🚀 Skills: ⤵️
 
-HTML5 CSS3 JS Bootstrap Jquery TypeScript Angular Java Spring-Boot NodeJS
+HTML5-CSS3-JS-Bootstrap-Jquery-TypeScript-Angular-Java-Spring Boot-NodeJS
 
 
 
