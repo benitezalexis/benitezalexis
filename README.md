@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,  I'm Alexis Benitez👋
 
 <!--
 **benitezalexis/benitezalexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a  Software Engineering student
+
+🚀 Skills: ⤵️
+
+HTML5 CSS3 JS Bootstrap Jquery TypeScript Angular Java Spring-Boot NodeJS
+
+
+
