@@ -19,7 +19,7 @@ I'm a  Software Engineering student
 
 🚀 Skills: ⤵️
 
-HTML5-CSS3-JS-Bootstrap-Jquery-TypeScript-Angular-Java-Spring Boot-NodeJS
+HTML5-CSS3-JS-Bootstrap-Jquery-TypeScript-Angular-PHP-Java-Spring Boot-NodeJS
 
 
 
