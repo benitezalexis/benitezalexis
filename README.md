@@ -1,25 +1,27 @@
-### Hi,  I'm Alexis Benitez👋
+## 👨‍💻 Alexis Benítez
 
-<!--
-**benitezalexis/benitezalexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+console.log("Hello World!! 👋");
 
-Here are some ideas to get you started:
+🎓 I'm a Software Engineering student, passionate about technology and always eager to learn something new. I enjoy creating and improving my skills through continuous practice and curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# console.log('Hello world!! 👋')
-I'm a  Software Engineering student
+🚀 My Skillset
+Technology	Level	Progress
+HTML5 / CSS3	Avanzado	██████████ 100%
+JavaScript	Avanzado	█████████ 90%
+Bootstrap	Intermedio	████████░ 80%
+jQuery	Intermedio	███████░░ 70%
+TypeScript	Intermedio	██████░░░ 60%
+Angular	Básico	█████░░░░ 50%
+React	Avanzado	█████████░ 85%
+React Native	Avanzado	█████████░ 85%
+PHP	Avanzado	█████████ 90%
+Spring Boot	Básico	█████░░░░ 40%
+NodeJS	Básico	█████░░░░ 50%
 
-🚀 Skills: ⤵️
-
-HTML5-CSS3-JS-Bootstrap-Jquery-TypeScript-Angular-PHP-Java-Spring Boot-NodeJS
-
-
+🛠️ Tools & IDEs
+Visual Studio Code
+Git & GitHub
+Postman
+MySQL / SQL Server
 
